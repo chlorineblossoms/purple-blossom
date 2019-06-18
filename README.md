@@ -76,7 +76,7 @@ It appears to be a Wordpress site, as seen here:
 
 From there I run `wpscan --url 192.168.48.130/secret --enumerate u --wp-content-dir wp-content`
 
-Which shows that not only are there 19 vulnerabilited, but that *admin* is a valid user.
+Which shows that not only are there 19 vulnerabilites, but that *admin* is a valid user.
 
 ![WPScan output part 1](https://cdn.discordapp.com/attachments/590366497797570561/590377329205837835/unknown.png)
 ![WPScan output part 2](https://cdn.discordapp.com/attachments/590366497797570561/590377378447097857/unknown.png)
